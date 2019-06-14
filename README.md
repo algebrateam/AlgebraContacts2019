@@ -11,3 +11,5 @@ Potrebno je napraviti aplikaciju koja pohranjuje korisničke kontakte te dopušt
 * Dodavanje novog kontakta osobe
 * Izmjenu pojedinačnog kontakta osobe
 * Brisanje kontakta osobe odnosno svih kontakata osobe i same osobe
+
+![alt text](contact_shema.jpg "contact shema baze")
