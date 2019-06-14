@@ -56,4 +56,4 @@
 	}
 
 	$site = new Moje();
-	$site->Display('AlgebraContacts moji konkatki');
+	$site->Display('AlgebraContacts moji kontakti');
